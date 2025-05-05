@@ -27,7 +27,7 @@ Requirements
 - NumPy
 
 Installation
-1. Clone the repository: git clone https://github.com/alizzah-16/Crop-Recommendation-System.git
+1. Clone the repository: git clone https://github.com/alizzah-16/AI-Crop-Prediction.git
 2. Install the required libraries:
     - pip install streamlit
     - pip install scikit-learn
