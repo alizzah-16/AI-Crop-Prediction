@@ -44,6 +44,9 @@ Model Details
 - Algorithm: Random Forest Classifier
 - Training data: [Crop-Recommendation.csv]
 - Model performance:
+  
+  ![Screenshot 2025-05-05 200250](https://github.com/user-attachments/assets/f2eee501-b52d-41e6-9a2b-2bb062f598a2)
+
   ![Screenshot 2025-05-05 204055](https://github.com/user-attachments/assets/903d78e9-62f2-4ce2-8e48-c1e6c0666903)
 
 Screenshots
