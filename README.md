@@ -41,8 +41,9 @@ Usage
 
 Model Details
 - Algorithm: Random Forest Classifier
-- Training data: [Describe the dataset used for training]
-- Model performance: [Include metrics like accuracy, precision, recall, etc.]
+- Training data: [Crop-Recommendation.csv]
+- Model performance: [![Screenshot 2025-05-05 204055](https://github.com/user-attachments/assets/903d78e9-62f2-4ce2-8e48-c1e6c0666903)
+]
 Screenshots
 ![Screenshot 2025-05-05 204252](https://github.com/user-attachments/assets/c043532e-5dd6-4d31-a7da-45ca9af0beae)
 ![Screenshot 2025-05-05 204326](https://github.com/user-attachments/assets/7e20be02-4cde-47b2-85d3-76289ac33b41)
