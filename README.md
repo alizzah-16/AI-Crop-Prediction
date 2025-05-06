@@ -49,3 +49,8 @@ Model Details
 
   ![Screenshot 2025-05-05 204055](https://github.com/user-attachments/assets/903d78e9-62f2-4ce2-8e48-c1e6c0666903)
 
+Demo
+
+
+https://github.com/user-attachments/assets/b56f6c92-0756-4bfa-b3cf-6a41f4028fa6
+
