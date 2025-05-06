@@ -12,6 +12,7 @@ Table of Contents
 - #license
 
 Overview
+
 The Crop Recommendation System is an AI-powered application that predicts suitable crops based on soil parameters, helping farmers make informed decisions and improve crop yields. This system uses a Random Forest Classifier algorithm to provide accurate predictions and is built with a user-friendly interface using Streamlit.
 
 Features
@@ -49,8 +50,20 @@ Model Details
 
   ![Screenshot 2025-05-05 204055](https://github.com/user-attachments/assets/903d78e9-62f2-4ce2-8e48-c1e6c0666903)
 
+
+
+Screenshots
+![Screenshot 2025-05-05 204252](https://github.com/user-attachments/assets/c2384f96-d644-4132-9327-f805befca02a)
+![Screenshot 2025-05-06 203311](https://github.com/user-attachments/assets/05d71ab0-5e89-42b7-871d-a50674713769)
+![Screenshot 2025-05-06 203328](https://github.com/user-attachments/assets/12cca5ae-2df4-4f3d-96a5-c3f5bf1aa230)
+
+
+
+
 Demo
 
+
+The values can be set manually and the crop will be predicted based on the values . The crops are taken up from the dataset and uploaded based on the category of the input values they range in. 
 
 https://github.com/user-attachments/assets/b56f6c92-0756-4bfa-b3cf-6a41f4028fa6
 
